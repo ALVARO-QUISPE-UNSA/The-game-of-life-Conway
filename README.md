@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/ALVARO-QUISPE-UNSA/The-game-of-life-Conway">
     <img src="https://play-lh.googleusercontent.com/4xtboOCl4G36He2_RUaYhI9v_eDIoXara2hAxDi99f1R5MwLjSI1QZ_CT6wLdjCTV3E=w240-h480-rw" alt="Logo" width="200">
   </a>
   <h1 align="center">Game of Life - Conway</h1>
