@@ -1,13 +1,15 @@
 
+<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ALVARO-QUISPE-UNSA/The-game-of-life-Conway">
-    <img src="https://qph.cf2.quoracdn.net/main-qimg-c43424186b9c089b9aa1d64c7f1989c1" alt="Logo" width="200">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://play-lh.googleusercontent.com/4xtboOCl4G36He2_RUaYhI9v_eDIoXara2hAxDi99f1R5MwLjSI1QZ_CT6wLdjCTV3E=w240-h480-rw" alt="Logo" width="200">
   </a>
-  <h3 align="center">Salve Paz</h3>
+  <h3 align="center">Game of Life - Conway</h3>
   <p align="center">
-    Fundamentos de la programacion I
+    By: two beginners
   </p>
+  <div align='center'> <img src='https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square'></div>
 </div>
 
 
